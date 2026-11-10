@@ -199,4 +199,4 @@ This repository serves as the official landing page for Nancy Drew: Last Train t
 **Get the most recent version of Nancy Drew: Last Train to Blue Moon Canyon today!**
 
 ---
-**Last updated:** 2026-11-10 09:13:14 UTC
+**Last updated:** 2026-11-10 17:29:09 UTC
